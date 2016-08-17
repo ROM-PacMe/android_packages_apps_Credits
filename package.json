@@ -1,0 +1,21 @@
+{
+  "name": "CyanBlack Dev Credits",
+  "version": "1.0.A.35",
+  "description": "is a simple app to credits of developers of CyanBlackOS ROM",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CyanBlack/android_packages_apps_Credits.git"
+  },
+  "author": "ROM-PacMe",
+  "license": "Apache-2.0.0",
+  "keywords": [
+    "ecosystem:phonegap",
+    "ecosystem:cordova",
+    "cordova:template",
+    "phonegap:template"
+  ],
+  "bugs": {
+    "url": "https://github.com/CyanBlack/android_packages_apps_Credits/issues"
+  },
+  "homepage": "https://CyanBlack.github.io/inicio"
+}

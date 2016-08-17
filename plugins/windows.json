@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "CyanBlack Dev Credits"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "CyanBlack Dev Credits"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "CyanBlack Dev Credits"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "CyanBlack Dev Credits"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "CyanBlack Dev Credits"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "CyanBlack Dev Credits"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "CyanBlack Dev Credits"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "CyanBlack Dev Credits"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "CyanBlack Dev Credits"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "CyanBlack Dev Credits"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "CyanBlack Dev Credits"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "CyanBlack Dev Credits"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "CyanBlack Dev Credits"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "CyanBlack Dev Credits"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "CyanBlack Dev Credits"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "CyanBlack Dev Credits"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "CyanBlack Dev Credits"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "CyanBlack Dev Credits"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "CyanBlack Dev Credits"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "CyanBlack Dev Credits"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "CyanBlack Dev Credits"
+        }
+    }
+}
